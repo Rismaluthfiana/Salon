@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_salon">
+    <fragment
+        android:id="@+id/navigation_reservation"
+        android:name="com.example.salon.ui.dashboard.ReservationFragment"
+        tools:layout="@layout/fragment_reservation"
+        android:label="ReservationFragment" />
+    <fragment
+        android:id="@+id/navigation_salon"
+        android:name="com.example.salon.ui.salon.SalonFragment"
+        tools:layout="@layout/fragment_salon"
+        android:label="SalonFragment" />
+</navigation>

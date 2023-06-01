@@ -1,0 +1,56 @@
+[
+  {
+    "salon_no": 1,
+    "salon_name": "RlyGlamshine",
+    "salon_img": "https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2018/09/01/974963962.jpg",
+    "salon_address": "telang,kamal,bangkalan",
+    "salon_phone": "085733351697",
+    "salon_open_time": "Setiap hari 10.00 – 18.00 WIB",
+    "salon_desc": "rlyglamshine adalah salon kuku yang terletak di telang kamal"
+  },
+  {
+    "salon_no": 2,
+    "salon_name": "Blow + Bar",
+    "salon_img": "https://images.myguide-cdn.com/jakarta/companies/blow-bar/large/blow-bar-450429.jpg",
+    "salon_address": "Lippo Mall Kemang, Lt.1, Jakarta Selatan",
+    "salon_phone": "021 295 28436",
+    "salon_open_time": "Setiap hari 10.00 – 21.30 WIB",
+    "salon_desc": "Lifestyle grooming bar yang berlokasi di Kemang Village ini menyajikan hair services penuh dan manikur dengan minuman gratis. Sebagai tempat sosial bagi kaum urban yang sibuk, Blow + Bar menggabungkan layanan rambut dan kuku dengan minuman di lingkungan bar yang santai.\n\nBlow + Bar hanya menggunakan merek terbaik, L'Oréal Professionel dan Kerastasé. Salon rambut satu ini juga terkenal akan Signature Blowouts dan Updos yang telah menyabet beberapa penghargaan kecantikan. Kini Blow + Bar meluncurkan perawatan rambut terbaru, Permanent Blowouts.\n\nBlow + Bar"
+  },
+  {
+    "salon_no": 3,
+    "salon_name": "Salon De Coiffure",
+    "salon_img": "https://d22ir9aoo7cbf6.cloudfront.net/wp-content/uploads/sites/3/2017/10/2015_0224_319.jpg",
+    "salon_address": "Jl. Kemang Raya No. 45AA, Jakarta Selatan",
+    "salon_phone": "021 719 3318",
+    "salon_open_time": "Setiap hari 09.00 – 20.00 WIB",
+    "salon_desc": "Terletak di gedung kaca yang indah, The Papilion, Salon De Coiffure merupakan salon unisex yang menawarkan layanan sempurna dan teknik yang ahli di bawah getaran yang sangat menenangkan, di mana hal tersebut cukup penting untuk membuat keputusan ingin potongan rambut seperti apa.\n\nSalon yang dipimpin oleh Christopher Tarigans ini akan mengubah rambut Anda dengan sistem perawatan rambut terbaru dan eksklusif hanya menggunakan bahan berkualitas tinggi, menggabungkan bahan-bahan terbaik dari alam dan ilmu pengetahuan."
+  },
+  {
+    "salon_no": 4,
+    "salon_name": "Nobu Salon",
+    "salon_img": "https://s3.dealjava.com/content/thumb_med/hd/deal_nobusalonsby_59889.jpg",
+    "salon_address": "Citywalk Sudirman Lt.2F, Jl. K.H. Mas Mansyur No.121, Jakarta Pusat",
+    "salon_phone": "021 29704010",
+    "salon_open_time": "Minggu – Jumat: 10.00 – 20.00 WIB, Sabtu: 10.00 – 19.00 WIB",
+    "salon_desc": "Di salon rambut satu ini Anda akan merasa seperti masuk ke Little Tokyo, karena semua penata rambut adalah orang Jepang dan ruangannya meniru studio sederhana di Jepang. Setiap kunjungan ke Nobu akan dimulai dengan konsultasi rambut, di mana Anda dapat meminta ide gaya rambut dan membagikan keluh kesah tentang kondisi rambut yang Anda alami. Salon ini sendiri didirikan oleh Nobuyuki Miyauchi, yang pernah berprofesi sebagai penata rambut profesional di Beverly Hills, Los Angeles."
+  },
+  {
+    "salon_no": 5,
+    "salon_name": "One Piece by Hisato Suzuki",
+    "salon_img": "https://lh5.googleusercontent.com/p/AF1QipO_mUaLNmDbS5_slqhrTfj9ln0o18rxOYG87Y3o=w408-h272-k-no",
+    "salon_address": "Lippo Mall Kemang Lt.1 unit 2, Jl. Pangeran Antasari No. 36, Jakarta Selatan",
+    "salon_phone": "021-3030 5200",
+    "salon_open_time": "Setiap Hari 10.00 - 21.00 WIB",
+    "salon_desc": "One Piece by Hisato menawarkan penata rambut terbaik dan teknologi dari Jepang yang dipimpin oleh Hisato Suzuki. Hisato dan tim akan menghadirkan gaya rambut mutakhir terbaru di Indonesia dan membuat setiap wanita merasa cantik dan unik dengan karakter mereka sendiri. Di sini, Anda dapat menikmati teknologi luar biasa seperti sistem air berkarbonasi (mulai dari Rp 100.000), di mana mereka menggunakan air soda untuk mencuci rambut dan mengupas serpihan kulit mati di kulit kepala Anda, hingga bio straightening (Rp2.600.000) untuk melembabkan rambut Anda setelah rebonding atau pengeritingan, dan masih banyak lagi."
+  },
+  {
+    "salon_no": 6,
+    "salon_name": "The Parlour",
+    "salon_img": "https://images.fresha.com/locations/location-profile-images/520021/582887/6af1c288-7d73-4406-b769-b36caeb53604.jpg",
+    "salon_address": "Dharmawangsa Square, Jl. Darmawangsa VI No.7, Kby. Baru, Jakarta Selatan",
+    "salon_phone": "021 727 88288 / 021 727 86664",
+    "salon_open_time": "Setiap hari 10.00 – 18.00 WIB",
+    "salon_desc": "Terkenal untuk hair cutting, styling dan colouring-nya, The Parlour terletak di dua kota berbeda di Indonesia, Jakarta dan Surabaya. Salon rambut di Jakarta ini memastikan setiap gaya rambut yang mereka tawarkan sangat pas dengan wajah-wajah pelanggan mereka yang berbeda. Dengan mengutamakan perawatan berkualitas menggunakan produk rambut pilihan dari Shiseido Professional, The Parlour siap membuat rambut Anda lebih indah dan memesona. Pastikan menghubungi nomor telepon yang tertera di bawah ini untuk booking dan appointment"
+  }
+]
